@@ -1,6 +1,12 @@
 # App Vidente Virtual
 
 
+
+https://user-images.githubusercontent.com/79730539/178742563-14b7c8e8-9126-49cb-87ba-3dd81d2bc40b.mp4
+
+
+
+
 ### 🛠 Technologies
 
 This project was developed with the following technologies:
