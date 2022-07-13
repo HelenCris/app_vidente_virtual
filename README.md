@@ -38,3 +38,10 @@ $ cd app_vidente_virtual
 # Run the app 
 $ flutter run
 ```
+
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/HelenCris/app_vidente_virtual/blob/main/LICENSE) for more information.
+
+---
+
+Made by Helen Cris :wave: [Get in touch!](https://www.linkedin.com/in/helen-cris-fernandes/)
