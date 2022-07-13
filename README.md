@@ -1,7 +1,5 @@
 # App Vidente Virtual
 
-🚧  Em construção...  🚧
-
 
 ### 🛠 Technologies
 
