@@ -26,11 +26,12 @@ samples, guidance on mobile development, and a full API reference.
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Android Studio] installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Android Studio](https://developer.android.com/studio) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
 $ git clone https://github.com/HelenCris/app_vidente_virtual 
+
 # Go into the repository
 $ cd app_vidente_virtual
 
